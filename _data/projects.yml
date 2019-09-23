@@ -8,15 +8,20 @@
   url: https://github.com/kevin3-black/fpga-flight-controller
   image: assets/img/quad.jpg
 
-- title: Copykey
-  description: Turns an image of a key into a working 3D-printed copy (HackTX 2018)
-  url: https://devpost.com/software/copykey
-  image: assets/img/copykey.png
+- title: Vortex
+  description: An automated 911 call handler intended for disaster relief scenarios that uses natural language processing to cluster calls by incident (HackMIT 2019)
+  url: https://devpost.com/software/911-call-handler
+  image: assets/img/vortex.png
 
 - title: Syntype
   description: A smart typing trainer for programmers that learns from the user in real time and targets more difficult patterns (HackDFW 2019)
   url: https://devpost.com/software/syntype
   image: assets/img/syntype.png
+
+- title: Copykey
+  description: Turns an image of a key into a working 3D-printed copy (HackTX 2018)
+  url: https://devpost.com/software/copykey
+  image: assets/img/copykey.png
 
 - title: Hovercraft
   description: A nationals-winning device built for the Science Olympiad high school competition
