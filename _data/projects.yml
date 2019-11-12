@@ -1,7 +1,7 @@
 - title: Synthetic Spacecraft Imagery
   description: Generates synthetic training data for deep learning computer vision tasks using Blender
   url: https://github.com/autognc/synthetic-spacecraft-imagery
-  image: assets/img/ssi.png
+  image: assets/img/ssi2.png
 
 - title: FPGA Flight Controller
   description: A working quadcopter flight controller written in SystemVerilog and deployed to an FPGA
