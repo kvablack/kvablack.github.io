@@ -1,6 +1,6 @@
-- title: Synthetic Spacecraft Imagery
+- title: Starfish
   description: Generates synthetic training data for deep learning computer vision tasks using Blender
-  url: https://github.com/autognc/synthetic-spacecraft-imagery
+  url: https://github.com/autognc/starfish
   image: assets/img/ssi2.png
 
 - title: FPGA Flight Controller
