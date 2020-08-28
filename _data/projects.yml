@@ -3,6 +3,11 @@
   url: https://autognc-starfish.readthedocs.io
   image: assets/img/ssi2.png
 
+- title: OPAT
+  description: A simple web-based Object Pose Annotation Tool for manually annotating images with 6D pose information
+  url: https://github.com/autognc/opat-js
+  image: assets/img/opat.png
+
 - title: FPGA Flight Controller
   description: A working quadcopter flight controller written in SystemVerilog and deployed to an FPGA
   url: https://github.com/kevin3-black/fpga-flight-controller
