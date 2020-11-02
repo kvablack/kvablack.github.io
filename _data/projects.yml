@@ -10,7 +10,7 @@
 
 - title: FPGA Flight Controller
   description: A working quadcopter flight controller written in SystemVerilog and deployed to an FPGA
-  url: https://github.com/kevin3-black/fpga-flight-controller
+  url: https://github.com/kvablack/fpga-flight-controller
   image: assets/img/quad.jpg
 
 - title: Vortex
