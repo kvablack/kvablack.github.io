@@ -21,6 +21,17 @@ layout: default
         </div>
     </div>
 
+    <h2 class="mt-5 mb-2">Publications</h2>
+    <div class="row border border-light py-3" style="border-width:3px !important">
+        {% for pub in site.data.publications %}
+        <div class="my-2 col-12">
+            <h5 class="mb-0"><a target="_blank" href="{{ pub.url }}">{{ pub.title }}</a></h5>
+            <p class="mb-0">{{ pub.authors }}</p>
+            <p class="font-italic mb-0">{{ pub.conference }}</p>
+        </div>
+        {% endfor %}
+    </div>
+
     <h2 class="mt-5 mb-2">Projects</h2>
     <div class="row border border-light py-3" style="border-width:3px !important">
         {% for project in site.data.projects %}
