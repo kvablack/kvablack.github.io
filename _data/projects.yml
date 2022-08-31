@@ -34,7 +34,7 @@
   image: assets/img/hovercraft.jpg
 
 - title: Wireless Encrypted Voice Communication
-  description: A 32-bit microcontroller applet from my summer 2017 internship at Silicon Labs
+  description: A 32-bit microcontroller applet from my summer 2017 internship at Silicon Labs (high school)
   url: https://www.silabs.com/community/projects.entry.html/2017/08/25/wireless_encryptedv-jwJk
   image: assets/img/voicedemo.jpg
 
@@ -45,5 +45,5 @@
 
 - title: ManaTEAMS
   description: An Android app allowing Austin ISD students to easily check their grades
-  url: http://manateams.com
+  url: https://github.com/project-manatee
   image: assets/img/manateams.png
