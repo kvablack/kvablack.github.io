@@ -1,10 +1,15 @@
+- title: Training Diffusion Models with Reinforcement Learning
+  url: https://rl-diffusion.github.io
+  authors: K. Black, M. Janner, Y. Du, I. Kostrikov, and S. Levine
+  conference: Preprint (under review).
+
 - title: Flight-Ready, Non-Cooperative Spacecraft Pose Estimation Using Monocular Imagery
-  url: https://arxiv.org/pdf/2101.09553.pdf
+  url: https://arxiv.org/abs/2101.09553
   authors: K. Black, S. Shankar, D. Fonseka, J. Deutsch, A. Dhir, and M. R. Akella
   conference: 31st AAS/AIAA Space Flight Mechanics Meeting, 2021.
 
 - title: A Pipeline for Vision-Based On-Orbit Proximity Operations Using Deep Learning and Synthetic Imagery
-  url: https://arxiv.org/pdf/2101.05661.pdf
+  url: https://arxiv.org/abs/2101.05661
   authors: C. Schubert, K. Black, D. Fonseka, A. Dhir, J. Deutsch, N. Dhamani, G. Martin, and M. R. Akella
   conference: 2021 IEEE Aerospace Conference, 2021.
 
