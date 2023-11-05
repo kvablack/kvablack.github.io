@@ -1,3 +1,8 @@
+- title: Zero-Shot Robotic Manipulation with Pre-Trained Image-Editing Diffusion Models
+  url: https://rail-berkeley.github.io/susie/
+  authors: K. Black, M. Nakamoto, P. Atreya, H. Walke, C. Finn, A. Kumar, S. Levine
+  conference: Preprint (under review).
+
 - title: Training Diffusion Models with Reinforcement Learning
   url: https://rl-diffusion.github.io
   authors: K. Black, M. Janner, Y. Du, I. Kostrikov, and S. Levine
