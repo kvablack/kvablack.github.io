@@ -1,7 +1,17 @@
-- title: Zero-Shot Robotic Manipulation with Pre-Trained Image-Editing Diffusion Models
+- title: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models
   url: https://rail-berkeley.github.io/susie/
   authors: K. Black, M. Nakamoto, P. Atreya, H. Walke, C. Finn, A. Kumar, S. Levine
   conference: Preprint (under review).
+
+- title: "BridgeData V2: A Dataset for Robot Learning at Scale"
+  url: https://rail-berkeley.github.io/bridgedata/
+  authors: H. Walke, K. Black, A. Lee, M. J. Kim, M. Du, C. Zheng, T. Zhao, P. Hansen-Estruch, Q. Vuong, A. He, V. Myers, K. Fang, C. Finn, S. Levine
+  conference: 7th Annual Conference on Robot Learning, 2023.
+
+- title: "ViNT: A Foundation Model for Visual Navigation"
+  url: https://general-navigation-models.github.io/
+  authors: D. Shah, A. Sridhar, N. Dashora, K. Stachowicz, K. Black, N. Hirose, S. Levine
+  conference: 7th Annual Conference on Robot Learning, 2023.
 
 - title: Training Diffusion Models with Reinforcement Learning
   url: https://rl-diffusion.github.io
