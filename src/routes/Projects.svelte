@@ -1,7 +1,6 @@
 <script>
     import { base } from "$app/paths";
-    import { clickOutside } from "../lib/clickOutside.js";
-    let active = false;
+    import ExpandableBox from "./ExpandableBox.svelte";
 
     const projs = {
         "Grad School": [
@@ -86,14 +85,7 @@
 </script>
 
 <h1 class="text-3xl mt-8 mb-2">Projects</h1>
-<!-- svelte-ignore a11y-click-events-have-key-events -->
-<!-- svelte-ignore a11y-no-static-element-interactions -->
-<div
-    class:active
-    class="group border-slate-100 border-4 py-4 px-2 w-full rounded-md max-h-96 h-full overflow-hidden transition-all relative flex flex-col items-center"
-    on:click={() => (active = !active)}
-    use:clickOutside={() => (active = false)}
->
+<ExpandableBox>
     {#each Object.entries(projs) as [category, projs], i}
         <div class="flex items-center w-full mb-4 {i > 0 ? 'mt-4' : ''}">
             <div class="grow border-t border-gray-400 border-dotted"></div>
@@ -122,25 +114,4 @@
             {/each}
         </div>
     {/each}
-    <div
-        class="absolute bottom-0 bg-gradient-to-t from-white to-transparent h-64 w-full group-[.active]:opacity-0 transition-all"
-    >
-        <div class="chevron-down"></div>
-    </div>
-</div>
-
-<style>
-    .active {
-        max-height: 10000px;
-    }
-    .chevron-down {
-        display: inline-block;
-        @apply border-slate-400 border-r-4 border-b-4;
-        width: 15px;
-        height: 15px;
-        transform: translateY(-100%) rotate(45deg);
-        position: absolute;
-        left: 50%;
-        bottom: 0;
-    }
-</style>
+</ExpandableBox>
