@@ -35,7 +35,7 @@
                 "A. Kumar",
                 "S. Levine",
             ],
-            venue: "Preprint (under review)",
+            venue: "ICLR 2024 (Poster)",
             url: "https://rail-berkeley.github.io/susie/",
         },
         {
@@ -56,7 +56,7 @@
                 "C. Finn",
                 "S. Levine",
             ],
-            venue: "7th Annual Conference on Robot Learning, 2023",
+            venue: "CoRL 2023 (Poster)",
             url: "https://rail-berkeley.github.io/bridgedata/",
         },
         {
@@ -70,7 +70,7 @@
                 "N. Hirose",
                 "S. Levine",
             ],
-            venue: "7th Annual Conference on Robot Learning, 2023",
+            venue: "CoRL 2023 (Oral)",
             url: "https://general-navigation-models.github.io/",
         },
         {
@@ -82,7 +82,7 @@
                 "I. Kostrikov",
                 "S. Levine",
             ],
-            venue: "Preprint (under review)",
+            venue: "ICLR 2024 (Poster)",
             url: "https://rl-diffusion.github.io",
         },
         {
