@@ -6,7 +6,7 @@
 </script>
 
 <!-- content column -->
-<div class="max-w-4xl w-full px-2 pt-4 flex flex-col items-start mx-auto">
+<div class="max-w-4xl w-full px-2 pt-8 flex flex-col items-start mx-auto">
 	<Header />
 	<Publications />
 	<Projects />

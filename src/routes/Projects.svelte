@@ -1,6 +1,5 @@
 <script>
     import { base } from "$app/paths";
-    import ExpandableBox from "./ExpandableBox.svelte";
 
     const projs = {
         "Grad School": [
@@ -8,7 +7,7 @@
                 title: "Octo",
                 img: "octo.png",
                 url: "https://octo-models.github.io",
-                desc: "An open-source diffusion policy transformer for robotic manipulation pretrained on the Open-X Embodiment dataset",
+                desc: "An open-source foundation model for robotic manipulation. I also made the website :)",
             },
             {
                 title: "DLimp",
@@ -84,8 +83,7 @@
     };
 </script>
 
-<h1 class="text-3xl mt-8 mb-2">Projects</h1>
-<ExpandableBox>
+<h1 class="text-2xl mt-8 mb-2">Other Projects</h1>
     {#each Object.entries(projs) as [category, projs], i}
         <div class="flex items-center w-full mb-4 {i > 0 ? 'mt-4' : ''}">
             <div class="grow border-t border-gray-400 border-dotted"></div>
@@ -104,7 +102,7 @@
                     </a>
                     <div class="flex flex-col shrink">
                         <div>
-                            <a href={proj.url} class="text-2xl">
+                            <a href={proj.url} class="text-2xl font-semibold">
                                 {proj.title}
                             </a>
                         </div>
@@ -114,4 +112,5 @@
             {/each}
         </div>
     {/each}
-</ExpandableBox>
+
+<div class="mb-64"></div>

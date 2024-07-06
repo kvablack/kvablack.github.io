@@ -22,12 +22,13 @@
     </div>
 
     <p class="mt-2 col-start-2">
-        Hi, I'm Kevin. I'm currently a PhD student at <a
+        Hi, I'm Kevin. I'm a researcher at <a
+            href="https://physicalintelligence.company/">Physical Intelligence</a
+        > and a PhD student at <a
             href="https://bair.berkeley.edu/">Berkeley AI</a
-        >
-        advised by
+        >, advised by
         <a href="https://people.eecs.berkeley.edu/~svlevine/"
-            >Professor Sergey Levine</a
+            >Sergey Levine</a
         >. I am graciously supported by the NSF Graduate Research Fellowship.
     </p>
 
