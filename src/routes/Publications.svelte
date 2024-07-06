@@ -92,6 +92,7 @@
             venue: "AAS/AIAA Space Flight Mechanics Meeting (2021)",
             url: "https://arxiv.org/abs/2101.09553",
             video: "pose",
+            hasVideo: false,
         },
     ];
 </script>
