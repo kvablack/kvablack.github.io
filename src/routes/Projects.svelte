@@ -102,7 +102,7 @@
                     </a>
                     <div class="flex flex-col shrink">
                         <div>
-                            <a href={proj.url} class="text-2xl font-semibold">
+                            <a href={proj.url} class="text-2xl font-semibold font-raleway">
                                 {proj.title}
                             </a>
                         </div>

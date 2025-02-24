@@ -57,9 +57,9 @@
         class="md:pl-4 pt-2 md:pt-0 pb-16 md:pb-0 transition-transform"
         class:translate-x-8={hovered && isWide}
     >
-        <a class="text-xl text-sky-600 font-semibold" href={url}>
+        <a class="text-xl text-sky-600 font-bold font-raleway" href={url}>
             {#if title.includes("π0")}
-                <span class="font-stix-two-math text-2xl">π</span><sub class="-ml-0.2 text-lg[50%]">0</sub>: {title.slice(3)}
+                <span class="font-stix-two-math text-2xl">π<sub class="-ml-0.2 text-[50%]">0</sub></span>: {title.slice(3)}
             {:else}
                 {title}
             {/if}
