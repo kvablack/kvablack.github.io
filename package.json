@@ -14,6 +14,7 @@
 		"@fontsource/open-sans": "^5.0.15",
 		"@fontsource/raleway": "^5.0.13",
 		"@fontsource/roboto-mono": "^5.0.13",
+		"@fontsource/stix-two-math": "^4.5.2",
 		"@splidejs/svelte-splide": "^0.2.9",
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/adapter-static": "^2.0.3",

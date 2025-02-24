@@ -7,6 +7,13 @@
 
     const pubs = [
         {
+            title: "π0: A Vision-Language-Action Flow Model for General Robot Control",
+            authors: ["K. Black", "and the Physical Intelligence team"],
+            venue: "Preprint (2025)",
+            url: "https://www.physicalintelligence.company/blog/pi0",
+            video: "pi0",
+        },
+        {
             title: "Octo: An Open-Source Generalist Robot Policy",
             authors: [
                 "Octo Model Team:",
@@ -99,7 +106,11 @@
 
 <MediaQuery query="(min-width: 768px)" bind:matches={isWide} />
 <h1 class="text-2xl mt-8 mb-4">Selected Publications</h1>
-<div class="grid md:gap-y-8 {isWide ? 'grid-cols-[minmax(0,_200px)_2fr]' : 'grid-cols-1'}">
+<div
+    class="grid md:gap-y-8 {isWide
+        ? 'grid-cols-[minmax(0,_200px)_2fr]'
+        : 'grid-cols-1'}"
+>
     {#each pubs as pub}
         <Pub {...pub} {isWide} />
     {/each}

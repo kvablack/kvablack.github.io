@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         'raleway': ['Raleway', 'sans-serif'],
         'open-sans': ['"Open Sans"', 'sans-serif'],
+        'stix-two-math': ['"STIX Two Math"', 'Times New Roman', 'serif'],
       }
     },
   },
