@@ -35,7 +35,7 @@
     <p class="mt-2 md:col-start-2 md:col-span-1 col-start-1 col-span-2">
         Previously, I graduated from UT Austin where I worked with <a
             href="https://people.cs.umass.edu/~sniekum/"
-            >Professor Scott Niekum</a
+            >Scott Niekum</a
         >. Before that, I worked on the
         <a href="https://en.wikipedia.org/wiki/Seeker_(spacecraft)"
             >Seeker mission</a

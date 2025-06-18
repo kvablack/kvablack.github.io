@@ -7,9 +7,16 @@
 
     const pubs = [
         {
+            title: "Real-Time Execution of Action Chunking Flow Policies",
+            authors: ["K. Black", "M. Y. Galliker", "S. Levine"],
+            venue: "Preprint (2025)",
+            url: "https://www.pi.website/research/real_time_chunking",
+            video: "rtc",
+        },
+        {
             title: "π0: A Vision-Language-Action Flow Model for General Robot Control",
             authors: ["K. Black", "and the Physical Intelligence team"],
-            venue: "Preprint (2025)",
+            venue: "Robotics: Science and Systems (2025)",
             url: "https://www.physicalintelligence.company/blog/pi0",
             video: "pi0",
         },
