@@ -29,7 +29,7 @@
         >, advised by
         <a href="https://people.eecs.berkeley.edu/~svlevine/"
             >Sergey Levine</a
-        >. I am graciously supported by the NSF Graduate Research Fellowship.
+        >.
     </p>
 
     <p class="mt-2 md:col-start-2 md:col-span-1 col-start-1 col-span-2">

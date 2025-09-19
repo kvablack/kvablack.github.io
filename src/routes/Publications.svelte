@@ -9,7 +9,7 @@
         {
             title: "Real-Time Execution of Action Chunking Flow Policies",
             authors: ["K. Black", "M. Y. Galliker", "S. Levine"],
-            venue: "Preprint (2025)",
+            venue: "NeurIPS (2025)",
             url: "https://www.pi.website/research/real_time_chunking",
             video: "rtc",
         },
